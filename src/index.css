@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: #e45252;
+  color: #6b5a5d;
+  font-family: 'Segoe UI', system-ui, -apple-system, Arial, sans-serif;
+}
