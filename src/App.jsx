@@ -19,8 +19,8 @@ function App() {
             <h1 className="hero-title">Hello, I'm Ruth Aryeetey.</h1>
             <h2 className="hero-subtitle">Explore.Engineer.Evolve.</h2>
             <p className="hero-intro">
-              I'm a passionate learner who loves coding, exploring how AI can
-              be applied in geological engineering, and making a positive impact.
+              I'm a geological engineering student,exploring how AI can
+              be applied in my field.
             </p>
           </div>
 
