@@ -209,3 +209,16 @@
   font-size: 1.2rem;
   font-weight: 700;
 }
+.hero-subtitle {
+  color: #5b21b6;
+}
+
+.hero-intro {
+  color: #1a1033;
+  font-weight: 500;
+}
+
+.badge {
+  color: #3b0f8c;
+  background: rgba(255, 255, 255, 0.55);
+}
