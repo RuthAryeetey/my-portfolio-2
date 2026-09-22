@@ -1,11 +1,11 @@
 /* ---------- Colours (change these to restyle everything) ---------- */
 :root {
-  --bg: #05030f;
+  --bg: #cac2f3;
   --purple: #7c3aed;
   --lavender: #c4a8ff;
-  --lavender-soft: #a78bfa;
-  --text: #ffffff;
-  --text-soft: #dcd8e8;
+  --lavender-soft: #bbb0db;
+  --text: #d68181;
+  --text-soft: #4a20c9;
 }
 
 /* ---------- Page frame ---------- */
@@ -219,6 +219,13 @@
 }
 
 .badge {
-  color: #3b0f8c;
-  background: rgba(255, 255, 255, 0.55);
+  color: #595364;
+  background: rgba(189, 176, 176, 0.55);
+}
+.about-title {
+  color: #1E3A8A;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
 }
